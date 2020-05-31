@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/job/opengl3/build",
+  "command": "D:\\Program_Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\job\\opengl3\\src\\main.cpp",
+  "file": "D:/job/opengl3/src/main.cpp"
+},
+{
+  "directory": "D:/job/opengl3/build",
+  "command": "D:\\Program_Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -o CMakeFiles\\main.dir\\src\\cpps\\ModelLoader.cpp.obj -c D:\\job\\opengl3\\src\\cpps\\ModelLoader.cpp",
+  "file": "D:/job/opengl3/src/cpps/ModelLoader.cpp"
+},
+{
+  "directory": "D:/job/opengl3/build",
+  "command": "D:\\Program_Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -o CMakeFiles\\main.dir\\src\\cpps\\ShaderProgram.cpp.obj -c D:\\job\\opengl3\\src\\cpps\\ShaderProgram.cpp",
+  "file": "D:/job/opengl3/src/cpps/ShaderProgram.cpp"
+},
+{
+  "directory": "D:/job/opengl3/build",
+  "command": "D:\\Program_Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -o CMakeFiles\\main.dir\\src\\cpps\\TextureProgram.cpp.obj -c D:\\job\\opengl3\\src\\cpps\\TextureProgram.cpp",
+  "file": "D:/job/opengl3/src/cpps/TextureProgram.cpp"
+},
+{
+  "directory": "D:/job/opengl3/build",
+  "command": "D:\\Program_Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -o CMakeFiles\\main.dir\\src\\cpps\\Window.cpp.obj -c D:\\job\\opengl3\\src\\cpps\\Window.cpp",
+  "file": "D:/job/opengl3/src/cpps/Window.cpp"
+}
+]
