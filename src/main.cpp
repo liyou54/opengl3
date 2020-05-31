@@ -35,10 +35,10 @@ int indices[] = { // 注意索引从0开始!
     7,4,0, 0,3,7
         };
 
-const char* VertexShaderFilePath = "D:\\job\\opengl3\\src\\shaderFile\\vertexShader.vs";
-const char*FragmentShaderFilePath = "D:\\job\\opengl3\\src\\shaderFile\\fragmentShader.fs";
-const char* TextureFilePath1 = "D:\\job\\opengl3\\texture\\wall.jpg";
-const char* TextureFilePath2 = "D:\\job\\opengl3\\texture\\awesomeface.png";
+const char* VertexShaderFilePath = "D:\\job\\opengl3\\opengl3\\src\\shaderFile\\vertexShader.vs";
+const char*FragmentShaderFilePath = "D:\\job\\opengl3\\opengl3\\src\\shaderFile\\fragmentShader.fs";
+const char* TextureFilePath1 = "D:\\job\\opengl3\\opengl3\\texture\\wall.jpg";
+const char* TextureFilePath2 = "D:\\job\\opengl3\\opengl3\\texture\\awesomeface.png";
 
 int main()
 {
